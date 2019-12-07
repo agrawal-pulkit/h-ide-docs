@@ -1,0 +1,13 @@
++++
+title = "Installations"
+date = 2019-12-11T11:02:54+05:30
+weight = 15
+chapter = true
+pre = "<b>3. </b>"
++++
+
+### Chapter 3
+
+# Installations
+
+This chapter is collection of various installations which is used in software development.
