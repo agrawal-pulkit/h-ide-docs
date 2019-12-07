@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackersoon - Documentation</title>
+    <link>https://docs.hackersoon.com/</link>
+    <description>Recent content on Hackersoon - Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2019 12:33:42 +0530</lastBuildDate>
+    
+	<atom:link href="https://docs.hackersoon.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Array </title>
+      <link>https://docs.hackersoon.com/data-structure/array/</link>
+      <pubDate>Thu, 18 Jul 2019 12:33:42 +0530</pubDate>
+      
+      <guid>https://docs.hackersoon.com/data-structure/array/</guid>
+      <description>This docs is collection of array releated questions.</description>
+    </item>
+    
+  </channel>
+</rss>

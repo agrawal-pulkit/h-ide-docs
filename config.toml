@@ -1,0 +1,6 @@
+baseURL = "https://docs.hackersoon.com"
+languageCode = "en-us"
+title = "Hackersoon - Documentation"
+
+
+theme = "learn"
