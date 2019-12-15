@@ -200,7 +200,7 @@
 	"title": "Credits",
 	"tags": [],
 	"description": "",
-	"content": "Contributors Thanks to them for making Open Source Software a better place ! .ghContributors { display: flex; flex-flow: wrap; align-content: flex-start } .ghContributorsdiv { width: 50%; display: inline-flex; margin-bottom: 5px; } .ghContributorsdiv label { padding-left: 4px; } .ghContributorsdiv span { font-size: x-small; padding-left: 4px; }   @rapido-pulkit 4 commits   @sumittal 2 commits   @agrawal-pulkit 1 commits  \nPackages and libraries https://learn.netlify.com/en/\n"
+	"content": "Contributors Thanks to them for making Open Source Software a better place ! .ghContributors { display: flex; flex-flow: wrap; align-content: flex-start } .ghContributorsdiv { width: 100%; display: inline-flex; margin-bottom: 20px; } .ghContributorsdiv label { padding-left: 4px; } .ghContributorsdiv span { font-size: x-medium; padding-left: 10px; }   @rapido-pulkit 4 commits   @sumittal 2 commits   @agrawal-pulkit 1 commits  \nPackages and libraries https://learn.netlify.com/en/\n"
 },
 {
 	"uri": "https://docs.hackersoon.com/tags/",
