@@ -52,6 +52,33 @@ helm upgrade &amp;lt;name&amp;gt; &amp;lt;path-tohelm-chart&amp;gt; --namespace 
     </item>
     
     <item>
+      <title>gist-test</title>
+      <link>https://docs.hackersoon.com/basics/python/gist-input/</link>
+      <pubDate>Wed, 11 Dec 2019 10:24:28 +0530</pubDate>
+      
+      <guid>https://docs.hackersoon.com/basics/python/gist-input/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>ref-test</title>
+      <link>https://docs.hackersoon.com/basics/python/ref-test/</link>
+      <pubDate>Wed, 11 Dec 2019 10:24:28 +0530</pubDate>
+      
+      <guid>https://docs.hackersoon.com/basics/python/ref-test/</guid>
+      <description>gist-test</description>
+    </item>
+    
+    <item>
+      <title>YouTube</title>
+      <link>https://docs.hackersoon.com/basics/python/youtube-video/</link>
+      <pubDate>Wed, 11 Dec 2019 10:24:28 +0530</pubDate>
+      
+      <guid>https://docs.hackersoon.com/basics/python/youtube-video/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Credits</title>
       <link>https://docs.hackersoon.com/credits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

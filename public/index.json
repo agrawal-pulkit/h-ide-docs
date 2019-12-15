@@ -154,18 +154,39 @@
 	"content": "  Elasticsearch installation in Ubuntu: apt-get update apt-get install python-minimal apt-get install openjdk-8-jdk wget https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/deb/elasticsearch/2.4.0/elasticsearch-2.4.0.deb dpkg -i elasticsearch-2.4.0.deb cd /etc/elasticsearch vim elasticsearch.yml update network.host with private ip of the server service elasticsearch start service elasticsearch status curl ip:9200/ "
 },
 {
+	"uri": "https://docs.hackersoon.com/basics/python/gist-input/",
+	"title": "gist-test",
+	"tags": [],
+	"description": "",
+	"content": " "
+},
+{
 	"uri": "https://docs.hackersoon.com/basics/python/",
 	"title": "Python",
 	"tags": [],
 	"description": "",
-	"content": "  check python version:\npython --version "
+	"content": "  gist-test     ref-test     YouTube     check python version:\npython --version  "
+},
+{
+	"uri": "https://docs.hackersoon.com/basics/python/ref-test/",
+	"title": "ref-test",
+	"tags": [],
+	"description": "",
+	"content": "gist-test\n"
+},
+{
+	"uri": "https://docs.hackersoon.com/basics/python/youtube-video/",
+	"title": "YouTube",
+	"tags": [],
+	"description": "",
+	"content": "   "
 },
 {
 	"uri": "https://docs.hackersoon.com/",
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": "Cheat Sheet  Basics    Python      Commands    Docker     Tumx\u0026#43;iterm     Networking     Ansible     Git     Kubernetes    Helm     Installations    Mac_setup     Consul_vault    Vault Acl    Minikube     Docker     ElasticSearch      Databases    Mongodb    Pymongo_client     Programming    Golang    Goroutine     "
+	"content": "Cheat Sheet  Basics    Python    gist-test   ref-test   YouTube     Commands    Docker     Tumx\u0026#43;iterm     Networking     Ansible     Git     Kubernetes    Helm     Installations    Mac_setup     Consul_vault    Vault Acl    Minikube     Docker     ElasticSearch      Databases    Mongodb    Pymongo_client     Programming    Golang    Goroutine     "
 },
 {
 	"uri": "https://docs.hackersoon.com/categories/",

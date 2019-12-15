@@ -8,7 +8,7 @@
 <meta name="author" content="Pulkit Agrawal">
 
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
-    <title>Networking :: Hackersoon - Documentation</title>
+    <title>ref-test :: Hackersoon - Documentation</title>
 
     
     <link href="/css/nucleus.css?1576422501" rel="stylesheet">
@@ -34,7 +34,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/commands/networking/">
+  <body class="" data-url="/basics/python/ref-test/">
     <nav id="sidebar" class="">
 
 
@@ -77,7 +77,7 @@
   
     
     <li data-nav-id="/basics/" title="Basics" class="dd-item 
-        
+        parent
         
         
         ">
@@ -104,7 +104,7 @@
   
     
     <li data-nav-id="/basics/python/" title="Python" class="dd-item 
-        
+        parent
         
         
         ">
@@ -147,7 +147,7 @@
  
   
     
-      <li data-nav-id="/basics/python/ref-test/" title="ref-test" class="dd-item ">
+      <li data-nav-id="/basics/python/ref-test/" title="ref-test" class="dd-item active">
         <a href="/basics/python/ref-test/">
         ref-test
         
@@ -202,7 +202,7 @@
   
     
     <li data-nav-id="/commands/" title="Commands" class="dd-item 
-        parent
+        
         
         
         ">
@@ -277,8 +277,8 @@
   
     
     <li data-nav-id="/commands/networking/" title="Networking" class="dd-item 
-        parent
-        active
+        
+        
         
         ">
       <a href="/commands/networking/">
@@ -803,7 +803,7 @@
                   
                   
                   <div id="top-github-link">
-                    <a class="github-link" title='Edit this page' href="https://github.com/agrawal-pulkit/h-ide-docs/edit/master/content/commands/networking/_index.md" target="blank">
+                    <a class="github-link" title='Edit this page' href="https://github.com/agrawal-pulkit/h-ide-docs/edit/master/content/basics/python/ref-test.md" target="blank">
                       <i class="fas fa-code-branch"></i>
                       <span id="top-github-link-text">Edit this page</span>
                     </a>
@@ -834,7 +834,13 @@
             
           
           
-            <a href='/'></a> > <a href='/commands/'>Commands</a> > Networking
+            
+            
+          
+          
+            <a href='/'></a> > <a href='/basics/'>Basics</a> > <a href='/basics/python/'>Python</a> > ref-test
+          
+         
           
          
           
@@ -863,7 +869,7 @@
           
             <h1>
               
-              Networking
+              ref-test
             </h1>
           
 
@@ -871,64 +877,13 @@
 
 
 
-
-	
-
-
-
-
-
-
-<ul class="children children-li">
-	
-
-	
-		
-	
-
-	
-
-	
-		
-	
-
-	
-</ul>
-
-<h4 id="nc">nc</h4>
-<pre><code># Listener: 
-nc -l 1234 &gt; out.file
-
-# Producer: 
-nc -w 3 &lt;ip&gt; 1234 &lt; out.file
-</code></pre>
-<h4 id="find-which-service-is-running-and-process-info">find which service is running and process info</h4>
-<pre><code>netstat -nltp
-
-#porcess
-ps -ef
-pas aux
-</code></pre>
-<h4 id="change-the-boot-disk-size-of-instance-without-restart">change the boot disk size of instance without restart</h4>
-<pre><code>lsblk
-growpart /dev/sda 1
-resize2fs /dev/sda1
-df -h
-</code></pre>
-<h4 id="check-disk-size">check disk size</h4>
-<pre><code>df -h
-du -csh *</code></pre>
-
-
-
-
-
-
+<p><a href="/basics/python/gist-input/">gist-test</a></p>
 
 
 <footer class=" footline" >
 	
 </footer>
+
 
         
         </div> 
@@ -961,8 +916,6 @@ du -csh *</code></pre>
             
                 
                     
-                        
-                        
                     
                 
                 
@@ -979,10 +932,87 @@ du -csh *</code></pre>
             
                 
                     
+                    
                 
                 
 
                     
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
                     
                     
 
@@ -1035,87 +1065,10 @@ du -csh *</code></pre>
             
         
                     
-            
-        
-                    
-            
-        
-                    
                         
             
             
                 
-                    
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
                     
                 
                 
@@ -1402,10 +1355,10 @@ du -csh *</code></pre>
 	 
 	 
 		
-			<a class="nav nav-prev" href="/commands/tumx&#43;iterm/" title="Tumx&#43;iterm"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="/basics/python/gist-input/" title="gist-test"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/commands/ansible/" title="Ansible" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/basics/python/youtube-video/" title="YouTube" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -1435,3 +1388,4 @@ du -csh *</code></pre>
 
   </body>
 </html>
+
