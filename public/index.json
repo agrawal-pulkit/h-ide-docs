@@ -4,7 +4,7 @@
 	"title": "Golang",
 	"tags": [],
 	"description": "",
-	"content": "Golang Some Chapter title Lorem Ipsum.\n"
+	"content": "Golang  Goroutine     "
 },
 {
 	"uri": "https://docs.hackersoon.com/basics/",
@@ -18,35 +18,35 @@
 	"title": "Commands",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 2 Commands This Chapter is collections of command which is frequently used in Development.\n"
-},
-{
-	"uri": "https://docs.hackersoon.com/installations/",
-	"title": "Installations",
-	"tags": [],
-	"description": "",
-	"content": "Chapter 3 Installations This chapter is collection of various installations which is used in software development.\n"
-},
-{
-	"uri": "https://docs.hackersoon.com/databases/",
-	"title": "Databases",
-	"tags": [],
-	"description": "",
-	"content": "Chapter 4 Databases This Chapter is collections of databases related stuffs which is frequently used in Development.\n"
+	"content": "Commands This Chapter is collections of command which is frequently used in Development.\n Docker     Tumx\u0026#43;iterm     Networking     Ansible     Git     Kubernetes    Helm      "
 },
 {
 	"uri": "https://docs.hackersoon.com/programming/",
 	"title": "Programming",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 5 Programming This chapter is collection of useful stuffs of various programming languages.\n"
+	"content": "Programming This chapter is collection of useful stuffs of various programming languages.\n Golang    Goroutine      "
 },
 {
 	"uri": "https://docs.hackersoon.com/installations/mac_setup/",
 	"title": "Mac_setup",
 	"tags": [],
 	"description": "",
-	"content": "  Follow this guide to setup mac https://sourabhbajaj.com/mac-setup/\nother useful softwares brew install watch brew install httpie #kubernetes brew install kubectx brew install stern  "
+	"content": "  Follow this guide to setup mac https://sourabhbajaj.com/mac-setup/\nother useful softwares brew install watch brew install httpie #kubernetes brew install kubectx brew install stern  Zsh themes themes\n"
+},
+{
+	"uri": "https://docs.hackersoon.com/installations/",
+	"title": "Installations",
+	"tags": [],
+	"description": "",
+	"content": "Installations This chapter is collection of various installations which is used in software development.\n Mac_setup     Consul_vault    Vault Acl      Minikube     Docker     ElasticSearch     "
+},
+{
+	"uri": "https://docs.hackersoon.com/databases/",
+	"title": "Databases",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 4 Databases This Chapter is collections of databases related stuffs which is frequently used in Development.\n Mongodb    Pymongo_client      "
 },
 {
 	"uri": "https://docs.hackersoon.com/commands/docker/",
@@ -154,28 +154,21 @@
 	"content": "  Elasticsearch installation in Ubuntu: apt-get update apt-get install python-minimal apt-get install openjdk-8-jdk wget https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/deb/elasticsearch/2.4.0/elasticsearch-2.4.0.deb dpkg -i elasticsearch-2.4.0.deb cd /etc/elasticsearch vim elasticsearch.yml update network.host with private ip of the server service elasticsearch start service elasticsearch status curl ip:9200/ "
 },
 {
-	"uri": "https://docs.hackersoon.com/basics/python/gist-input/",
+	"uri": "https://docs.hackersoon.com/basics/gist-input/",
 	"title": "gist-test",
 	"tags": [],
 	"description": "",
 	"content": " "
 },
 {
-	"uri": "https://docs.hackersoon.com/basics/python/",
-	"title": "Python",
-	"tags": [],
-	"description": "",
-	"content": "  gist-test     ref-test     YouTube     check python version:\npython --version  "
-},
-{
-	"uri": "https://docs.hackersoon.com/basics/python/ref-test/",
+	"uri": "https://docs.hackersoon.com/basics/ref-test/",
 	"title": "ref-test",
 	"tags": [],
 	"description": "",
 	"content": "gist-test\n"
 },
 {
-	"uri": "https://docs.hackersoon.com/basics/python/youtube-video/",
+	"uri": "https://docs.hackersoon.com/basics/youtube-video/",
 	"title": "YouTube",
 	"tags": [],
 	"description": "",
@@ -186,7 +179,7 @@
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": "Cheat Sheet  Basics    Python    gist-test   ref-test   YouTube     Commands    Docker     Tumx\u0026#43;iterm     Networking     Ansible     Git     Kubernetes    Helm     Installations    Mac_setup     Consul_vault    Vault Acl    Minikube     Docker     ElasticSearch      Databases    Mongodb    Pymongo_client     Programming    Golang    Goroutine     "
+	"content": "Cheat Sheet  Basics    gist-test   ref-test   YouTube    Commands    Docker   Tumx\u0026#43;iterm   Networking   Ansible   Git   Kubernetes    Programming    Golang    Installations    Mac_setup   Consul_vault   Minikube   Docker   ElasticSearch    Databases    Mongodb    "
 },
 {
 	"uri": "https://docs.hackersoon.com/categories/",
@@ -200,7 +193,7 @@
 	"title": "Credits",
 	"tags": [],
 	"description": "",
-	"content": "Contributors Thanks to them for making Open Source Software a better place ! .ghContributors { display: flex; flex-flow: wrap; align-content: flex-start } .ghContributorsdiv { width: 100%; display: inline-flex; margin-bottom: 20px; } .ghContributorsdiv label { padding-left: 4px; } .ghContributorsdiv span { font-size: x-medium; padding-left: 10px; }   @rapido-pulkit 4 commits   @sumittal 2 commits   @agrawal-pulkit 1 commits  \nPackages and libraries https://learn.netlify.com/en/\n"
+	"content": "Contributors Thanks to them for making Open Source Software a better place ! .ghContributors { display: flex; flex-flow: wrap; align-content: flex-start } .ghContributorsdiv { width: 100%; display: inline-flex; margin-bottom: 20px; } .ghContributorsdiv label { padding-left: 4px; } .ghContributorsdiv span { font-size: x-medium; padding-left: 10px; }   @agrawal-pulkit 3 commits   @rapido-pulkit 2 commits  \nPackages and libraries https://learn.netlify.com/en/\n"
 },
 {
 	"uri": "https://docs.hackersoon.com/tags/",

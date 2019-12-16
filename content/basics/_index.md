@@ -3,7 +3,8 @@ title = "Basics"
 date = 2019-12-11T10:18:35+05:30
 weight = 5
 chapter = true
-pre = "<b>1. </b>"
+draft = true
+pre = "<b></b>"
 +++
 
 ### Chapter 1

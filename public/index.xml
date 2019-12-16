@@ -53,28 +53,28 @@ helm upgrade &amp;lt;name&amp;gt; &amp;lt;path-tohelm-chart&amp;gt; --namespace 
     
     <item>
       <title>gist-test</title>
-      <link>https://docs.hackersoon.com/basics/python/gist-input/</link>
+      <link>https://docs.hackersoon.com/basics/gist-input/</link>
       <pubDate>Wed, 11 Dec 2019 10:24:28 +0530</pubDate>
       
-      <guid>https://docs.hackersoon.com/basics/python/gist-input/</guid>
+      <guid>https://docs.hackersoon.com/basics/gist-input/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>ref-test</title>
-      <link>https://docs.hackersoon.com/basics/python/ref-test/</link>
+      <link>https://docs.hackersoon.com/basics/ref-test/</link>
       <pubDate>Wed, 11 Dec 2019 10:24:28 +0530</pubDate>
       
-      <guid>https://docs.hackersoon.com/basics/python/ref-test/</guid>
+      <guid>https://docs.hackersoon.com/basics/ref-test/</guid>
       <description>gist-test</description>
     </item>
     
     <item>
       <title>YouTube</title>
-      <link>https://docs.hackersoon.com/basics/python/youtube-video/</link>
+      <link>https://docs.hackersoon.com/basics/youtube-video/</link>
       <pubDate>Wed, 11 Dec 2019 10:24:28 +0530</pubDate>
       
-      <guid>https://docs.hackersoon.com/basics/python/youtube-video/</guid>
+      <guid>https://docs.hackersoon.com/basics/youtube-video/</guid>
       <description>   </description>
     </item>
     
@@ -84,7 +84,7 @@ helm upgrade &amp;lt;name&amp;gt; &amp;lt;path-tohelm-chart&amp;gt; --namespace 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://docs.hackersoon.com/credits/</guid>
-      <description>Contributors Thanks to them for making Open Source Software a better place ! .ghContributors { display: flex; flex-flow: wrap; align-content: flex-start } .ghContributorsdiv { width: 100%; display: inline-flex; margin-bottom: 20px; } .ghContributorsdiv label { padding-left: 4px; } .ghContributorsdiv span { font-size: x-medium; padding-left: 10px; }   @rapido-pulkit 4 commits   @sumittal 2 commits   @agrawal-pulkit 1 commits  
+      <description>Contributors Thanks to them for making Open Source Software a better place ! .ghContributors { display: flex; flex-flow: wrap; align-content: flex-start } .ghContributorsdiv { width: 100%; display: inline-flex; margin-bottom: 20px; } .ghContributorsdiv label { padding-left: 4px; } .ghContributorsdiv span { font-size: x-medium; padding-left: 10px; }   @agrawal-pulkit 3 commits   @rapido-pulkit 2 commits  
 Packages and libraries https://learn.netlify.com/en/</description>
     </item>
     

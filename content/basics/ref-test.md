@@ -5,4 +5,4 @@ draft: True
 weight: 999
 ---
 
-[gist-test]({{< ref "basics/python/gist-input.md" >}})
+[gist-test]({{< ref "basics/gist-input.md" >}})

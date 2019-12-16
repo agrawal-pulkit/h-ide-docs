@@ -1,4 +1,4 @@
 # Cheat Sheet
 
-{{% children depth="3" sort="weight" %}}
+{{% children depth="2" sort="weight" %}}
 
