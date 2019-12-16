@@ -19,3 +19,7 @@ weight: 40
     #kubernetes
     brew install kubectx
     brew install stern
+
+
+**Zsh themes**
+[themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
